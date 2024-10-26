@@ -1,0 +1,3 @@
+# BE Computer Engineering Practicals (SPPU 2019 Pattern)
+
+This repository contains the practical codes and related resources for the final year Bachelor of Engineering (BE) Computer Engineering curriculum as per the 2019 pattern from Savitribai Phule Pune University (SPPU). It covers a range of subjects and programming tasks aimed at providing hands-on experience with various concepts in Computer Science and Engineering.
